@@ -69,5 +69,9 @@ input,textarea{
     .container.contact_container{
         width: var(--container-width-sm);
      } 
+
+    input , textarea{
+        width: 70%;
+    } 
 }
 
